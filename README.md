@@ -32,7 +32,7 @@
 ## Usage
 ####安装
 ```
-git clone https://github.com/tumars/boilerplate-webpack-react-es6-cssModule
+git clone https://github.com/rover5056/React-Redux-webpack.git
 cd boilerplate-webpack-react-es6-cssModule
 npm install
 ```
