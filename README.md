@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 这是个主要使用 webpack + react + redux + es6 + cssModule 的 demo，包含 React 技术栈全家桶，可作为开发模板使用。
 
 
@@ -79,3 +80,7 @@ npm run lint src
 - [eslint](https://github.com/eslint/eslint)
 - [babel-loader](https://github.com/babel/babel-loader)
 - [react-hot-loader](https://github.com/gaearon/react-hot-loader)
+=======
+# React-Redux-webpack
+简单介绍Reac+redux+webpack   基础框架的使用
+>>>>>>> 2ee7a6e05e62b4180c67d7e9fc052348feab72be
